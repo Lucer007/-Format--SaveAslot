@@ -1,0 +1,9 @@
+.sign_in_container h3 {
+  font-size: 1rem;
+  text-transform: uppercase;
+  font-weight: 900;
+}
+
+.sign_in_container h3:hover {
+  cursor: pointer;
+}
